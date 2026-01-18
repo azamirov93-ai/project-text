@@ -405,6 +405,9 @@
   .w-\[220px\] {
     width: 220px;
   }
+  .w-\[260px\] {
+    width: 260px;
+  }
   .w-fit {
     width: fit-content;
   }
@@ -507,6 +510,9 @@
   }
   .rounded-\[12px\] {
     border-radius: 12px;
+  }
+  .rounded-\[16px\] {
+    border-radius: 16px;
   }
   .rounded-\[20px\] {
     border-radius: 20px;
@@ -932,6 +938,11 @@
   .md\:h-\[50vh\] {
     @media (width >= 48rem) {
       height: 50vh;
+    }
+  }
+  .md\:w-\[30\%\] {
+    @media (width >= 48rem) {
+      width: 30%;
     }
   }
   .md\:w-\[33\%\] {
