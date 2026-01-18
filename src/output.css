@@ -303,6 +303,9 @@
   .mb-\[32px\] {
     margin-bottom: 32px;
   }
+  .mb-\[40px\] {
+    margin-bottom: 40px;
+  }
   .mb-\[48px\] {
     margin-bottom: 48px;
   }
@@ -404,6 +407,9 @@
   }
   .w-\[100\%\] {
     width: 100%;
+  }
+  .w-\[160px\] {
+    width: 160px;
   }
   .w-\[200px\] {
     width: 200px;
@@ -989,6 +995,11 @@
   .md\:w-\[90\%\] {
     @media (width >= 48rem) {
       width: 90%;
+    }
+  }
+  .md\:w-\[220px\] {
+    @media (width >= 48rem) {
+      width: 220px;
     }
   }
   .md\:w-\[280px\] {
