@@ -321,6 +321,9 @@
   .h-8 {
     height: calc(var(--spacing) * 8);
   }
+  .h-\[28px\] {
+    height: 28px;
+  }
   .h-\[40px\] {
     height: 40px;
   }
@@ -341,6 +344,9 @@
   }
   .min-h-screen {
     min-height: 100vh;
+  }
+  .w-\[28px\] {
+    width: 28px;
   }
   .w-\[40px\] {
     width: 40px;
@@ -591,6 +597,12 @@
   }
   .py-\[14px\] {
     padding-block: 14px;
+  }
+  .py-\[16px\] {
+    padding-block: 16px;
+  }
+  .py-\[20px\] {
+    padding-block: 20px;
   }
   .py-\[24px\] {
     padding-block: 24px;
